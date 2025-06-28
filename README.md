@@ -1,5 +1,14 @@
 # 💫 About Me:
-lakshmisree157/README.md<br>Hi there! 👋<br>I’m Lakshmisree, a B.Tech student passionate about the evolving field of AI. Aspiring to become an AI engineer, I’m always curious about the basics of machine learning and its real-world applications.<br>About Me<br>🌱 I’m currently pursuing my B.Tech in AIML (Artificial Intelligence and Machine Learning).<br>👀 I’m fascinated by the power of data and algorithms to transform industries and improve lives.<br>I have a keen interest in AI ethics, particularly as the field continues to evolve rapidly. I believe it is essential to establish comprehensive guidelines and regulations to ensure responsible AI development and deployment.<br>I love participating in hackathons and contributing to open-source projects.<br>🌐 Connecting: You can find me on LinkedIn -https://www.linkedin.com/in/lakshmi-sree-2b03572b2
+Hi there! 👋  
+I’m **Lakshmisree**, a B.Tech student driven by curiosity and passion for Artificial Intelligence and Machine Learning. My journey so far blends hands-on experimentation, collaborative hackathons, and continuous learning in cutting-edge tech.
+
+- 🔭 I’m currently working on: AI-driven hackathon projects and real-world applications using ML, FastAPI, and modern front-end tools like React and Flutter.  
+- 🤝 I’m looking to collaborate on: Open-source AI/ML projects, interdisciplinary tech challenges, and innovation-focused communities.  
+- 🧠 I’m currently learning: Advanced ML algorithms, model deployment strategies, and full-stack integration for intelligent systems.  
+- 💬 Ask me about: Data pipelines, model evaluation, ML project structuring, or my recent explorations in edge AI.  
+- 🙋‍♀️ I’m looking for help with: Scalable model deployment, API integrations, and improving the user experience of AI-powered tools.  
+- 🌱 Growth mindset: I believe learning never stops — every project, bug, or brainstorm session is a step forward.
+
 
 
 ## 🌐 Socials:
